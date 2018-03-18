@@ -1,1 +1,1 @@
-window.location.href='yardwill.com';
+window.location.href='https://yardwill.com';
